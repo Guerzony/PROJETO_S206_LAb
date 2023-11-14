@@ -12,7 +12,7 @@ Lista de Exercício - Teste de UI (User Interface) com cypress
 
 # Como rodar o programa
  
-  • Executar o comando ./node_modules/.bin/cypress open
+  • Executar o comando para abrir o cypress e testar: ```./node_modules/.bin/cypress open```
 
 # Como gerar o relatório
 
