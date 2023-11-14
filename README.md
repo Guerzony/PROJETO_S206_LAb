@@ -3,6 +3,7 @@ Repositorio visa colocar em pratica os conhecimentos adquiridos com cypress
 
 # INTEGRANTES:
 Nathan Santos Ataliba 1663
+
 Gabriel Henrique Guerzony 235
 
 # S206_UI
